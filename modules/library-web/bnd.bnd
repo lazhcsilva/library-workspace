@@ -1,0 +1,4 @@
+Bundle-Name: library-web
+Bundle-SymbolicName: com.liferay.library.library.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.library.library.web.constants
